@@ -30,6 +30,13 @@ CT-Eye as a system solves all this by:
 2- supporting & bridging the gap b/w law enforcement & civilians by creating an independent DB, serving as a channel supplied & updated by either sides, & accessible to both.
 3- creating & publishing a visual representation of real time Crime statistics in the country on a location/type/time map basis, which will be accessible to the public.(web & social media). This will allow citizens better appraise, encourage or criticize Effort & Policies.
 
+ABOUT THE APP: CT-Eye comprises three(3) interface : 
+
+1-VIEW DANGER ZONE - This was built using geospatial data analysis, and a plot that shows clusters of possible danger spots for violence in a city.
+
+2- GENERATE REPORT - This automatically redirects the user to a chatbot, an interactive way of submitting a report. This was created because sometimes, after experiencing a traumatizing situation, a victim might not be able to make a proper report, hence the chatbot was built in a way to recognize key-words from inputs and generate a report at the backend.
+
+3- SEND A WHATSAPP REPORT - A user can also choose to send a direct report to authorities/Emergency numbers via WhatsApp messages.
 
 
 
