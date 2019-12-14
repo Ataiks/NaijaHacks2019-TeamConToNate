@@ -24,5 +24,14 @@ ACCESSIBILITY :- users avoid having to wait to go all the way to Police stations
 
 WHY WOULD IT WORK : A Main cause of the rampantness & audacity of crime & criminals is the lack of a tangible representation of the extent of crime in the society. For : 1- the fact that most crimes go unreported, 2- ignorance abt the category & general details of criminals, their modus operandi, & the interrelationship. 3- the gap between civilians (who are mostly the victims) & law enforcement (often complicit) who are often ill motivated or equipped.
 
+CT-Eye as a system solves all this by:
+
+1- encouraging reporting of crime & criminal data by users from the convenience of their phones.(sms, app or web)
+2- supporting & bridging the gap b/w law enforcement & civilians by creating an independent DB, serving as a channel supplied & updated by either sides, & accessible to both.
+3- creating & publishing a visual representation of real time Crime statistics in the country on a location/type/time map basis, which will be accessible to the public.(web & social media). This will allow citizens better appraise, encourage or criticize Effort & Policies.
+
+
+
+
 
 ![Project Workflow](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/Project%20Workflow.png)
