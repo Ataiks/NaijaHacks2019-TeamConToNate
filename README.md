@@ -1,5 +1,6 @@
 
 # NaijaHacks2019-TeamConToNate
+![The CT-Eye App](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/CT-eye.jpeg)
 TEAM MEMBERS
 
 1. Abubakar Ateeq Abbas -Project manager
