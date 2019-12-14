@@ -16,3 +16,6 @@ IMPLICATIONS: Victims, witnesses, and people with information are unable to safe
 INTRODUCTION - PROPOSED SOLUTION: We propose an independent citizen-based platform with universal and discriminate access where accurate real-time crime & criminal data can be accessed, assessed, updated and published, anonymously or otherwise, by any citizen without discrimination or any agency in the country including law enforcement and rehabilitative NGOs. Users can anonymously give, update and retrieve(non-sensitive) crime information to/fro a database and where such info is published on public platforms and law enforcement actions thereunder assessed. The system will also serve as a point of contact where the appropriate agencies are accessible, a repository for Law enforcement, and a platform for weighing the performance of security agencies & policies. For the purpose of this project, Lagos was chosen as a Use-case, and Twitter as a data-mine
 
 BENEFITS: Anonymity will allow users to safely report personal and very sensitive or implicating details without risk of stigma or reprisal
+
+
+![Project Workflow](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/Project%20Workflow.png)
