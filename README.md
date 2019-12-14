@@ -1,16 +1,16 @@
 
 # NaijaHacks2019-TeamConToNate
 
-TEAM MEMBERS
+# TEAM MEMBERS
 
 1. Abubakar Ateeq Abbas -Project manager
 2. Oluwasegun Obielodan
 3. Aminah Mardiyyah Rufai 
 4. Victor Irekponor
 
-CATEGORY - Citizens Safety
+# CATEGORY - Citizens Safety
 
-# PROBLEM: The absence of a reliable and independent system where citizens either as victims, witnesses or just concerned brother's keepers can safely report details of crime and criminals conveniently and timeously, or a system where citizens and bodies can obtain information as to actual crime statistics, is a major setback in actualizing the dream of a much safer Nigeria.
+PROBLEM: The absence of a reliable and independent system where citizens either as victims, witnesses or just concerned brother's keepers can safely report details of crime and criminals conveniently and timeously, or a system where citizens and bodies can obtain information as to actual crime statistics, is a major setback in actualizing the dream of a much safer Nigeria.
 Moreso, there has been a recent increase in insecurity of citizens around the country, in terms of harassment /extortion by Law Enforcement officials, kidnapping, armed robbery, rape et cetera. These crimes are more common in major cities such as Lagos State, Abuja, and Port-Harcourt. When and if reported at all, These agencies are often found to be too complacent or ill-equipped / informed to pursue such cases.
 
 IMPLICATIONS: Victims, witnesses, and people with information are unable to safely and conveniently give details of crime and criminals around them without further risk to their persons. Therefore, unsuspecting citizens often fall victim to preventable/avoidable occurrences, while the perpetrators go scot-free and unidentified
@@ -32,7 +32,7 @@ CT-Eye as a system solves all this by:
 3- creating & publishing a visual representation of real time Crime statistics in the country on a location/type/time map basis, which will be accessible to the public.(web & social media). This will allow citizens better appraise, encourage or criticize Effort & Policies.
 
 ABOUT THE APP: CT-Eye comprises three(3) interface : 
-![The CT-Eye App](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/CT-eye.jpeg)
+![The CT-Eye App](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/CT-eye Homepage.jpeg)
 
 1-VIEW DANGER ZONE - This was built using geospatial data analysis, and a plot that shows clusters of possible danger spots for violence in a city.
 
