@@ -16,7 +16,13 @@ IMPLICATIONS: Victims, witnesses, and people with information are unable to safe
 
 INTRODUCTION - PROPOSED SOLUTION: We propose an independent citizen-based platform with universal and discriminate access where accurate real-time crime & criminal data can be accessed, assessed, updated and published, anonymously or otherwise, by any citizen without discrimination or any agency in the country including law enforcement and rehabilitative NGOs. Users can anonymously give, update and retrieve(non-sensitive) crime information to/fro a database and where such info is published on public platforms and law enforcement actions thereunder assessed. The system will also serve as a point of contact where the appropriate agencies are accessible, a repository for Law enforcement, and a platform for weighing the performance of security agencies & policies. For the purpose of this project, Lagos was chosen as a Use-case, and Twitter as a data-mine
 
-BENEFITS: Anonymity will allow users to safely report personal and very sensitive or implicating details without risk of stigma or reprisal
+BENEFITS: Anonymity will allow users to safely report personal and very sensitive or implicating details without risk of stigma or reprisal.
+
+WHAT WE BELIEVE IN : Transparency, accountability & A Citizen centered approach. We believe that any system for improving the life of citizens should focus on involving the citizens themselves. Similarly, such a system should be open to reasonable monitoring by the citizens themselves, in order to assertain that its goals are met. As such, CT-Eye focuses on getting realtime & verifiable crime data from citizens, & publishing same on public domain.
+
+ACCESSIBILITY :- users avoid having to wait to go all the way to Police stations & risk or expenses involved in initiating an investigation. LAW ENFORCEMENT :Agencies can easily access information that would otherwise be too costly or time consuming to obtain, thereby reducing the overall time spent on investigation. STATISTICS : Law enforcement & Aid or Other agencies can obtain general & individual crime data, find & analize the relations therein.
+
+WHY WOULD IT WORK : A Main cause of the rampantness & audacity of crime & criminals is the lack of a tangible representation of the extent of crime in the society. For : 1- the fact that most crimes go unreported, 2- ignorance abt the category & general details of criminals, their modus operandi, & the interrelationship. 3- the gap between civilians (who are mostly the victims) & law enforcement (often complicit) who are often ill motivated or equipped.
 
 
 ![Project Workflow](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/Project%20Workflow.png)
