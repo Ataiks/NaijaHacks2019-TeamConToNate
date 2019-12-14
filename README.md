@@ -2,10 +2,11 @@
 # NaijaHacks2019-TeamConToNate
 TEAM MEMBERS
 
-Abubakar Ateeq Abbas
-Oluwasegun Obielodan
-Aminah Mardiyyah Rufai
-Victor Irekponor
+1. Abubakar Ateeq Abbas -Project manager
+2. Oluwasegun Obielodan
+3. Aminah Mardiyyah Rufai 
+4. Victor Irekponor
+
 CATEGORY - Citizens Safety
 
 PROBLEM: The absence of a reliable and independent system where citizens either as victims, witnesses or just concerned brother's keepers can safely report details of crime and criminals conveniently and timeously, or a system where citizens and bodies can obtain information as to actual crime statistics, is a major setback in actualizing the dream of a much safer Nigeria.
