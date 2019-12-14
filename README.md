@@ -32,6 +32,7 @@ CT-Eye as a system solves all this by:
 3- creating & publishing a visual representation of real time Crime statistics in the country on a location/type/time map basis, which will be accessible to the public.(web & social media). This will allow citizens better appraise, encourage or criticize Effort & Policies.
 
 ABOUT THE APP: CT-Eye comprises three(3) interface : 
+
 ![The CT-Eye App](https://github.com/Ataiks/NaijaHacks2019-TeamConToNate/blob/master/CT-eye%20Homepage.jpeg)
 
 1-VIEW DANGER ZONE - This was built using geospatial data analysis, and a plot that shows clusters of possible danger spots for violence in a city.
